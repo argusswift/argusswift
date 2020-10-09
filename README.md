@@ -4,7 +4,6 @@
 
 - 🎓 Sichuan university
 - 📦 YOLOv4-pytorch仓库发起人.
-- 📖 微信号：Eason_yang_Tomas
-- 📖 QQ号：1072234903
+- 📖 QQ号：3419923783
 
 <img src="https://github-profile-trophy.vercel.app/?username=argusswift&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
