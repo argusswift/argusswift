@@ -2,8 +2,9 @@
 
 ### I'm argusswift
 
-- 🎓 Sichuan university
-- 📦 YOLOv4-pytorch仓库发起人.
-- 📖 QQ号：3419923783
+- 🎓 College of Electronics and Information Engineering, Sichuan University, Chengdu, 610065, China
+- 📦 YOLOv4-pytorch initiator.
+- 📖 QQ：3419923783
+- 📖 e-mail：argus@stu.scu.edu.cn
 
 <img src="https://github-profile-trophy.vercel.app/?username=argusswift&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
