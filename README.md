@@ -2,7 +2,6 @@
 
 ### I'm argusswift
 
-- 🎓 College of Electronics and Information Engineering, Sichuan University, Chengdu, China
 - 📦 YOLOv4-pytorch initiator.
 - 📖 QQ：3419923783
 - 📖 e-mail：argus@stu.scu.edu.cn
